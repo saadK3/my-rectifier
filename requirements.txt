@@ -1,0 +1,5 @@
+numpy>=1.19,<1.25
+scipy>=1.5,<1.11
+scikit-image>=0.17,<0.20
+opencv-python>=4.5,<5.0
+matplotlib>=3.3,<4.0
